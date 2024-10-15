@@ -284,7 +284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 607105464}
   moveVector: {x: 0, y: 0}
-  speed: 4
+  speed: 6
 --- !u!50 &607105464
 Rigidbody2D:
   serializedVersion: 4
