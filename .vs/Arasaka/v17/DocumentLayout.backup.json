@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arasaka\\assets\\asset\\player\\script\\player healt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player healt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arasaka\\assets\\asset\\ui\\script\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\ui\\script\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arasaka\\assets\\asset\\enemy\\enemy scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\arasaka\\assets\\asset\\player\\script\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\GitHub\\Arasaka\\assets\\asset\\enemy\\enemy scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\enemy\\enemy scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,37 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DamageDealer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
-              "RelativeDocumentMoniker": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
-              "RelativeToolTip": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TipsManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\UI\\script\\TipsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\UI\\script\\TipsManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\UI\\script\\TipsManager.cs",
+              "RelativeToolTip": "Assets\\Asset\\UI\\script\\TipsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:25:54.001Z",
+              "WhenOpened": "2024-11-07T18:37:37.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player Healt.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Player\\script\\Player Healt.cs",
-              "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Healt.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Player\\script\\Player Healt.cs",
-              "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Healt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Player Health.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Player\\script\\Player Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Health.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Player\\script\\Player Health.cs",
+              "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:09:38.439Z",
+              "WhenOpened": "2024-10-17T15:48:39.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DamageDealer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "RelativeToolTip": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:25:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Player Movement.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Arasaka\\Assets\\Asset\\Player\\script\\Player Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Movement.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Movement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:02:11.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T15:02:11.264Z"
             }
           ]
         }
