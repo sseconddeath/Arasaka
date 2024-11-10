@@ -6,6 +6,10 @@ public class Trigger : MonoBehaviour
 {
     public GameObject pl;
     public GameObject task;
+    public GameObject activEvent;
+    public string type_Trigger;
+    public int activ_trigger=0;
+    public int current_task;
     void Start()
     {
         
@@ -21,7 +25,13 @@ public class Trigger : MonoBehaviour
         if(pl.CompareTag("Player"))
         {
             task.GetComponent<TaskMAnager>().tasks += 1;
+            activEvent.SetActive(true);
+            activ_trigger = 1;
         }
     }
 
+    private void Trigget_Type()
+    {
+
+    }
 }
