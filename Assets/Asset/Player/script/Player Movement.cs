@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>(); 
         walk();
     }
 
@@ -31,24 +31,24 @@ public class PlayerMovement : MonoBehaviour
     {
         moveVector.x = Input.GetAxis("Horizontal") * speed;
         moveVector.y = Input.GetAxis("Vertical") * speed;
-        //anim.SetFloat("moveX", Mathf.Abs(moveVector.x));
+        anim.SetFloat("moveX", Mathf.Abs(moveVector.x));
         player.velocity = new Vector2(moveVector.x, moveVector.y);
-        if (moveVector.x != 0)
-        {
-            footstepController.StartWalking(); // Start playing footsteps if moving
-        }
-        else
-        {
-            footstepController.StopWalking(); // Stop playing footsteps if not moving
-        }
+        //if (moveVector.x != 0)
+        //{
+        //    footstepController.StartWalking(); // Start playing footsteps if moving
+        //}
+        //else
+        //{
+        //    footstepController.StopWalking(); // Stop playing footsteps if not moving
+        //}
 
-        if (moveVector.y != 0)
-        {
-            footstepController.StartWalking(); // Start playing footsteps if moving
-        }
-        else
-        {
-            footstepController.StopWalking(); // Stop playing footsteps if not moving
-        }
+        //if (moveVector.y != 0)
+        //{
+        //    footstepController.StartWalking(); // Start playing footsteps if moving
+        //}
+        //else
+        //{
+        //    footstepController.StopWalking(); // Stop playing footsteps if not moving
+        //}
     }
 }

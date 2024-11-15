@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Porgram Unity\\Arasaka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|d:\\porgram unity\\arasaka\\assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|d:\\porgram unity\\arasaka\\assets\\gamescripts\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescripts\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TipsManager.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScripts\\TipsManager.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsManager.cs",
+              "RelativeToolTip": "Assets\\GameScripts\\TipsManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:01:10.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipsTrigger.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScripts\\TipsTrigger.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsTrigger.cs",
+              "RelativeToolTip": "Assets\\GameScripts\\TipsTrigger.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:00:28.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FootstepController.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\FootstepController.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\FootstepController.cs",
@@ -34,8 +68,7 @@
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\FootstepController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T04:39:21.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:39:21.483Z"
             },
             {
               "$type": "Document",
@@ -45,22 +78,23 @@
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Movement.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\Player Movement.cs",
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Movement.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwCEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T04:09:36.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerMove 22.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAewDEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T03:57:41.928Z"
+              "WhenOpened": "2024-11-15T03:57:41.928Z",
+              "EditorCaption": ""
             }
           ]
         }
