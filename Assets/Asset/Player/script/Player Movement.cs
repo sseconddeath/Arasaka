@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public Vector2 moveVector;
     public float speed;
     private Animator anim;
-
+    public bool faceRight = true;
     private FootstepController footstepController;
 
     private void Awake()
@@ -25,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         anim = GetComponent<Animator>(); 
         walk();
+        Reflect();
     }
 
     void walk()
@@ -33,22 +34,14 @@ public class PlayerMovement : MonoBehaviour
         moveVector.y = Input.GetAxis("Vertical") * speed;
         anim.SetFloat("moveX", Mathf.Abs(moveVector.x));
         player.velocity = new Vector2(moveVector.x, moveVector.y);
-        //if (moveVector.x != 0)
-        //{
-        //    footstepController.StartWalking(); // Start playing footsteps if moving
-        //}
-        //else
-        //{
-        //    footstepController.StopWalking(); // Stop playing footsteps if not moving
-        //}
+    }
 
-        //if (moveVector.y != 0)
-        //{
-        //    footstepController.StartWalking(); // Start playing footsteps if moving
-        //}
-        //else
-        //{
-        //    footstepController.StopWalking(); // Stop playing footsteps if not moving
-        //}
+    void Reflect()
+    {
+        if ((moveVector.x > 0 && !faceRight) || (moveVector.x < 0 && faceRight))
+        {
+            transform.localScale *= new Vector2(-1, 1);
+            faceRight = !faceRight;
+        }
     }
 }
