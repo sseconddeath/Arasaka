@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\Porgram Unity\\Arasaka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|d:\\porgram unity\\arasaka\\assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|d:\\porgram unity\\arasaka\\assets\\asset\\enemy\\enemy scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\enemy\\enemy scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\enemy\\enemy scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\enemy\\enemy scripts\\damagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\gamescripts\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescripts\\tipsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\footstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescripts\\tipstrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|D:\\Porgram Unity\\Arasaka\\assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C054138-D785-C470-7842-C7F14BCEE4EA}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\player\\script\\playermove 22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,31 +50,81 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Enemy\\Enemy scripts\\EnemyHealth.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Asset\\Enemy\\Enemy scripts\\EnemyHealth.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:58:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Player Health.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\Player Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Health.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\Player Health.cs",
+              "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:53:45.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DamageDealer.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "RelativeToolTip": "Assets\\Asset\\Enemy\\Enemy scripts\\DamageDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:54:39.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\PlayerCombat.cs",
+              "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Asset\\Player\\script\\PlayerCombat.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:33:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TipsManager.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameScripts\\TipsManager.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsManager.cs",
               "RelativeToolTip": "Assets\\GameScripts\\TipsManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T05:01:10.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TipsTrigger.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\GameScripts\\TipsTrigger.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\GameScripts\\TipsTrigger.cs",
               "RelativeToolTip": "Assets\\GameScripts\\TipsTrigger.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAWwAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T05:00:28.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FootstepController.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\FootstepController.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\FootstepController.cs",
@@ -70,26 +136,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Player Movement.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\Player Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\Player Movement.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\Player Movement.cs",
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\Player Movement.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T04:09:36.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:09:36.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PlayerMove 22.cs",
               "DocumentMoniker": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "RelativeDocumentMoniker": "Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "ToolTip": "D:\\Porgram Unity\\Arasaka\\Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
               "RelativeToolTip": "Assets\\Asset\\Player\\script\\PlayerMove 22.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAewDEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T03:57:41.928Z"
             }
