@@ -4,21 +4,29 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private AudioClip stepSound; //звук шага
+    private AudioSource audioSource;
     public Rigidbody2D player;
     public Vector2 moveVector;
     public float speed;
     private Animator anim;
     public bool faceRight = true;
     private FootstepController footstepController;
+    //Задержка между шагами
+    private float stepDelay = 0.9f; 
+    private float lastStepTime;
+    private bool isMoving = false;
 
     private void Awake()
     {
-        footstepController = GetComponentInChildren<FootstepController>(); // Get the FootstepController component
+        footstepController = GetComponentInChildren<FootstepController>();
     }
 
     void Start()
     {
-        
+        //для шагов
+        audioSource = GetComponent<AudioSource>();
+        lastStepTime = Time.time; 
     }
 
     void Update()
@@ -34,6 +42,26 @@ public class PlayerMovement : MonoBehaviour
         moveVector.y = Input.GetAxis("Vertical") * speed;
         anim.SetFloat("moveX", Mathf.Abs(moveVector.x));
         player.velocity = new Vector2(moveVector.x, moveVector.y);
+
+        //звук шага
+        if (moveVector.magnitude > 0) 
+        {
+            if (!isMoving) 
+            {
+                isMoving = true; 
+                lastStepTime = Time.time + stepDelay; 
+            }
+
+            if (Time.time >= lastStepTime)
+            {
+                audioSource.PlayOneShot(stepSound); 
+                lastStepTime += stepDelay; 
+            }
+        }
+        else
+        {
+            isMoving = false; 
+        }
     }
 
     void Reflect()
